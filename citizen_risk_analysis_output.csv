@@ -1,0 +1,1001 @@
+Age,Mode_of_Transport,Steps_Walked,Sleep_Hours,Carbon_Footprint_kgCO2,Risk_Score,Risk_Level
+56,Walking,15635,9.2,44.7,2,Medium Risk
+69,Bicycle,1671,8.1,92.39,4,High Risk
+46,Bike,1777,4.7,78.57,6,High Risk
+32,Car,4022,4.9,55.46,4,High Risk
+60,Walking,19244,6.6,98.95,2,Medium Risk
+25,Walking,14817,5.2,51.87,4,High Risk
+38,EV,15260,4.2,15.24,2,Medium Risk
+56,EV,2074,8.8,33.6,4,High Risk
+36,Bike,10908,4.1,49.25,4,High Risk
+40,Car,10475,9.0,24.12,2,Medium Risk
+28,Walking,13878,4.9,95.28,4,High Risk
+28,Bike,16120,9.8,79.02,2,Medium Risk
+41,Bike,2986,7.6,34.15,4,High Risk
+53,Public Transport,11825,8.4,63.17,2,Medium Risk
+57,EV,10193,4.7,74.93,4,High Risk
+41,Car,18430,9.2,94.72,2,Medium Risk
+20,Walking,3176,9.0,89.35,2,Medium Risk
+39,Bike,19722,7.9,56.37,2,Medium Risk
+19,Walking,11047,7.0,79.72,2,Medium Risk
+41,Public Transport,17884,8.3,60.59,2,Medium Risk
+61,Car,19617,4.0,59.74,4,High Risk
+47,Bike,5608,7.6,20.33,2,Medium Risk
+55,Walking,12906,9.1,21.35,2,Medium Risk
+19,EV,8234,6.1,57.66,2,Medium Risk
+38,Public Transport,7610,4.6,34.2,4,High Risk
+50,Car,11524,6.5,11.89,0,Low Risk
+29,Public Transport,17984,8.4,75.06,2,Medium Risk
+39,EV,14411,4.6,12.92,2,Medium Risk
+61,Car,10180,5.2,63.57,4,High Risk
+42,Public Transport,16225,4.9,58.53,4,High Risk
+66,Bicycle,11073,8.8,97.19,2,Medium Risk
+44,EV,5483,4.4,53.58,4,High Risk
+59,EV,6901,8.1,15.72,0,Low Risk
+45,EV,7129,6.2,59.65,2,Medium Risk
+33,Bicycle,19138,8.5,85.7,2,Medium Risk
+32,Bicycle,19848,9.8,99.72,2,Medium Risk
+64,Walking,11415,4.7,48.73,4,High Risk
+68,Bike,5482,5.9,38.83,4,High Risk
+61,Public Transport,10686,8.9,91.6,2,Medium Risk
+69,Walking,8400,5.6,27.21,4,High Risk
+20,Public Transport,7806,5.3,65.39,4,High Risk
+54,Bike,11516,9.0,46.51,2,Medium Risk
+68,Bicycle,8396,9.9,13.7,0,Low Risk
+24,Bike,8338,7.3,41.26,2,Medium Risk
+38,Bicycle,10950,5.7,33.87,4,High Risk
+26,Bike,13500,6.4,71.75,2,Medium Risk
+56,Walking,12545,5.0,95.39,4,High Risk
+35,Car,6241,8.6,34.12,2,Medium Risk
+21,Walking,5695,8.6,83.03,2,Medium Risk
+42,Public Transport,12530,9.3,14.98,0,Low Risk
+31,Walking,15312,4.2,58.43,4,High Risk
+67,EV,19972,7.4,16.35,0,Low Risk
+26,Public Transport,15318,5.3,94.06,4,High Risk
+43,Bike,19166,6.0,78.97,2,Medium Risk
+19,Public Transport,12324,8.7,69.22,2,Medium Risk
+37,Car,4218,5.2,84.15,4,High Risk
+45,Bicycle,5016,7.8,68.28,2,Medium Risk
+64,Bike,3837,7.9,97.2,2,Medium Risk
+24,Public Transport,17312,9.7,74.26,2,Medium Risk
+61,Bike,8034,8.7,93.22,2,Medium Risk
+25,Bike,8309,8.8,56.54,2,Medium Risk
+64,Bike,15379,7.2,20.54,2,Medium Risk
+52,Bicycle,5239,5.1,57.54,4,High Risk
+31,Walking,13128,6.6,21.42,2,Medium Risk
+34,Bike,16856,7.3,63.32,2,Medium Risk
+53,EV,10611,8.1,53.42,2,Medium Risk
+67,Car,5150,7.6,66.03,2,Medium Risk
+57,Bicycle,12109,6.4,10.9,0,Low Risk
+21,Public Transport,2446,5.6,27.54,6,High Risk
+19,Bicycle,12936,5.0,54.22,4,High Risk
+23,Public Transport,12036,8.2,95.55,2,Medium Risk
+59,Bicycle,7468,7.9,44.52,2,Medium Risk
+21,Public Transport,15021,8.1,48.19,2,Medium Risk
+46,Bike,5175,6.2,74.32,2,Medium Risk
+35,Walking,16390,5.6,64.34,4,High Risk
+43,Public Transport,6080,8.6,36.9,2,Medium Risk
+61,Public Transport,16471,8.6,46.97,2,Medium Risk
+51,EV,15893,6.7,29.59,2,Medium Risk
+27,Public Transport,18248,7.7,96.94,2,Medium Risk
+53,EV,17009,6.2,21.76,2,Medium Risk
+31,Car,7217,8.2,43.47,2,Medium Risk
+48,Bike,6672,9.0,12.33,0,Low Risk
+65,EV,2502,8.1,29.96,4,High Risk
+32,Walking,2410,7.1,80.24,4,High Risk
+25,Bike,4770,6.8,28.11,2,Medium Risk
+31,EV,11097,7.9,17.21,0,Low Risk
+40,Bike,5001,8.1,52.7,2,Medium Risk
+57,Bike,1598,7.4,10.9,2,Medium Risk
+38,Bike,11976,7.7,17.63,0,Low Risk
+33,Car,7391,4.6,82.69,4,High Risk
+62,Walking,17450,9.7,79.43,2,Medium Risk
+35,Bicycle,15908,8.7,92.36,2,Medium Risk
+64,Bicycle,12590,6.2,86.91,2,Medium Risk
+41,EV,17279,7.4,71.49,2,Medium Risk
+43,Bike,3750,4.3,14.71,2,Medium Risk
+42,EV,10916,4.2,80.46,4,High Risk
+62,Car,7806,5.5,86.1,4,High Risk
+58,Car,7429,8.1,81.92,2,Medium Risk
+46,Public Transport,9123,9.1,55.76,2,Medium Risk
+32,Car,19015,7.4,30.96,2,Medium Risk
+62,Public Transport,7452,7.2,86.08,2,Medium Risk
+18,Walking,18158,6.4,75.44,2,Medium Risk
+42,EV,16456,5.0,98.27,4,High Risk
+24,Walking,5019,4.7,24.01,4,High Risk
+26,Car,13419,8.6,30.31,2,Medium Risk
+41,Walking,1929,9.6,29.06,4,High Risk
+18,Walking,7264,6.7,81.33,2,Medium Risk
+61,Walking,8973,8.0,26.82,2,Medium Risk
+25,Car,10697,9.5,16.0,0,Low Risk
+41,Bike,12136,4.5,99.87,4,High Risk
+28,Walking,2184,8.6,12.23,2,Medium Risk
+68,Public Transport,17911,7.7,85.17,2,Medium Risk
+34,Car,1916,7.6,42.88,4,High Risk
+25,Walking,4574,5.8,85.75,4,High Risk
+52,Bike,4319,8.1,59.92,2,Medium Risk
+52,Car,18790,8.8,91.15,2,Medium Risk
+50,Bicycle,18625,4.7,93.36,4,High Risk
+22,Bike,6206,7.2,10.82,0,Low Risk
+59,Public Transport,18182,4.6,16.79,2,Medium Risk
+56,Walking,18907,9.2,32.53,2,Medium Risk
+58,Bicycle,5928,7.0,70.24,2,Medium Risk
+45,Bicycle,17105,8.8,89.94,2,Medium Risk
+24,Car,3888,6.2,51.39,2,Medium Risk
+26,Bicycle,3690,4.8,64.63,4,High Risk
+25,Public Transport,5091,4.2,26.96,4,High Risk
+29,Public Transport,14960,5.7,82.45,4,High Risk
+51,EV,1690,5.5,97.06,6,High Risk
+50,Public Transport,2495,7.4,34.17,4,High Risk
+65,Bike,12085,4.1,54.53,4,High Risk
+40,Bicycle,18276,7.1,17.75,0,Low Risk
+41,Public Transport,11720,6.4,60.32,2,Medium Risk
+54,Car,6873,7.5,55.25,2,Medium Risk
+52,EV,5503,8.2,23.0,2,Medium Risk
+61,Bicycle,12720,7.8,49.79,2,Medium Risk
+57,EV,14964,9.9,40.07,2,Medium Risk
+39,Bicycle,1897,4.8,56.96,6,High Risk
+44,Car,18094,6.6,62.71,2,Medium Risk
+52,EV,4695,6.5,10.76,0,Low Risk
+18,Walking,3686,6.5,78.49,2,Medium Risk
+52,Bike,6778,8.0,74.17,2,Medium Risk
+54,Bike,16150,6.9,42.97,2,Medium Risk
+64,Bicycle,17799,7.1,14.76,0,Low Risk
+31,Walking,10663,6.6,77.94,2,Medium Risk
+20,EV,5180,10.0,95.97,2,Medium Risk
+18,Walking,5262,9.6,31.61,2,Medium Risk
+22,Walking,3515,5.8,39.12,4,High Risk
+43,EV,12236,4.7,26.54,4,High Risk
+31,Car,15104,9.0,61.92,2,Medium Risk
+56,Walking,7616,10.0,23.94,2,Medium Risk
+44,Walking,18376,5.8,42.06,4,High Risk
+26,Car,5370,6.1,72.73,2,Medium Risk
+32,Walking,19157,9.6,60.41,2,Medium Risk
+32,Walking,4816,8.3,44.78,2,Medium Risk
+43,Walking,2756,5.8,47.82,6,High Risk
+59,Bike,3373,7.5,60.59,2,Medium Risk
+30,Public Transport,3576,9.7,10.53,0,Low Risk
+68,Car,5184,8.9,17.07,0,Low Risk
+49,Walking,3397,8.5,89.31,2,Medium Risk
+56,Bike,13674,8.4,17.01,0,Low Risk
+66,Car,11326,5.1,73.61,4,High Risk
+69,Bicycle,11546,8.9,92.8,2,Medium Risk
+49,Bicycle,5535,5.7,34.36,4,High Risk
+21,Walking,15599,9.6,43.34,2,Medium Risk
+47,Bike,10168,6.2,61.2,2,Medium Risk
+54,Bike,18118,9.1,89.35,2,Medium Risk
+40,Car,1632,5.6,94.77,6,High Risk
+56,Car,14280,7.1,76.56,2,Medium Risk
+62,Bike,15746,4.6,17.8,2,Medium Risk
+32,Car,5268,8.0,70.22,2,Medium Risk
+60,Bike,19047,9.0,46.93,2,Medium Risk
+46,Public Transport,16321,8.3,52.36,2,Medium Risk
+53,Bike,11207,7.1,14.42,0,Low Risk
+30,Bicycle,6591,4.3,27.2,4,High Risk
+49,Car,17226,9.6,81.15,2,Medium Risk
+24,Bike,2054,8.2,50.86,4,High Risk
+68,Bike,9572,8.5,37.15,2,Medium Risk
+39,Car,14579,8.8,44.56,2,Medium Risk
+45,Public Transport,11583,8.5,86.9,2,Medium Risk
+19,Public Transport,9007,6.6,77.41,2,Medium Risk
+59,Car,16903,8.4,34.51,2,Medium Risk
+62,EV,10784,7.8,20.58,2,Medium Risk
+23,Car,5261,9.1,32.68,2,Medium Risk
+45,Car,3389,8.8,92.87,2,Medium Risk
+45,Public Transport,14939,4.2,62.34,4,High Risk
+61,Public Transport,12219,6.3,58.01,2,Medium Risk
+61,Car,10399,4.2,63.68,4,High Risk
+37,Car,1544,4.6,42.94,6,High Risk
+47,Car,3239,7.6,82.64,2,Medium Risk
+28,Public Transport,11559,9.2,57.1,2,Medium Risk
+45,Car,3627,4.7,20.51,4,High Risk
+42,Car,7618,6.7,21.62,2,Medium Risk
+56,Walking,13123,9.5,58.32,2,Medium Risk
+50,EV,7780,8.9,94.29,2,Medium Risk
+18,Bicycle,9015,7.1,37.75,2,Medium Risk
+44,EV,4130,8.6,88.26,2,Medium Risk
+69,Walking,17480,7.1,78.77,2,Medium Risk
+30,Bicycle,15831,4.9,32.3,4,High Risk
+58,Car,3708,4.7,13.27,2,Medium Risk
+20,Walking,6397,5.1,19.17,2,Medium Risk
+56,Car,12528,6.1,75.56,2,Medium Risk
+23,Public Transport,17840,9.6,27.97,2,Medium Risk
+25,Bike,6914,8.8,43.41,2,Medium Risk
+44,Walking,5368,6.6,55.15,2,Medium Risk
+26,Public Transport,12179,7.0,75.29,2,Medium Risk
+54,Walking,13076,5.6,20.19,4,High Risk
+50,Walking,19321,8.2,46.57,2,Medium Risk
+68,Public Transport,14948,8.8,53.66,2,Medium Risk
+59,Bicycle,18530,5.4,58.67,4,High Risk
+61,EV,14824,4.3,83.65,4,High Risk
+41,Car,5299,7.7,25.45,2,Medium Risk
+32,Walking,15120,7.4,82.7,2,Medium Risk
+49,Car,9118,6.4,72.36,2,Medium Risk
+49,Bike,11756,7.9,60.03,2,Medium Risk
+41,Public Transport,8953,7.3,72.96,2,Medium Risk
+58,Car,5784,5.5,47.08,4,High Risk
+69,Public Transport,16185,6.4,22.46,2,Medium Risk
+66,Car,10024,6.6,69.92,2,Medium Risk
+66,EV,15674,9.3,57.22,2,Medium Risk
+69,EV,18845,9.8,67.54,2,Medium Risk
+29,EV,12708,9.4,40.42,2,Medium Risk
+56,EV,2159,8.3,91.62,4,High Risk
+19,EV,1386,7.5,62.86,4,High Risk
+20,EV,8192,8.1,17.69,0,Low Risk
+66,Public Transport,11745,9.6,50.48,2,Medium Risk
+54,Walking,10910,5.5,78.07,4,High Risk
+66,Car,4409,7.2,81.47,2,Medium Risk
+34,EV,18073,8.1,54.51,2,Medium Risk
+66,Public Transport,14180,8.1,90.53,2,Medium Risk
+19,Public Transport,18336,5.5,34.09,4,High Risk
+19,Public Transport,7142,7.5,46.95,2,Medium Risk
+45,Walking,6967,8.8,90.87,2,Medium Risk
+40,Car,8205,6.9,90.66,2,Medium Risk
+54,Walking,17006,8.8,71.71,2,Medium Risk
+49,Bicycle,13109,6.2,87.31,2,Medium Risk
+50,Public Transport,14034,9.6,17.99,0,Low Risk
+18,Bicycle,3484,7.2,87.85,2,Medium Risk
+36,Bike,2854,7.6,38.86,4,High Risk
+19,EV,12631,4.2,26.05,4,High Risk
+61,EV,3597,5.0,31.54,4,High Risk
+43,Walking,8829,7.8,47.62,2,Medium Risk
+49,Car,9186,6.5,32.61,2,Medium Risk
+23,Bicycle,4983,7.0,38.85,2,Medium Risk
+49,Car,7684,4.4,22.15,4,High Risk
+21,Walking,11383,9.0,36.66,2,Medium Risk
+28,EV,18040,8.7,61.51,2,Medium Risk
+34,Car,13004,5.1,49.77,4,High Risk
+55,Car,13103,7.8,41.2,2,Medium Risk
+41,EV,7312,8.9,77.18,2,Medium Risk
+22,Bicycle,8938,7.8,90.42,2,Medium Risk
+69,EV,10954,5.9,78.11,4,High Risk
+51,Car,10777,7.9,39.88,2,Medium Risk
+23,Bicycle,4563,5.3,77.0,4,High Risk
+39,Bicycle,6041,5.9,23.68,4,High Risk
+28,EV,12292,5.4,21.73,4,High Risk
+65,Car,9026,7.3,41.11,2,Medium Risk
+33,Walking,14923,4.6,82.69,4,High Risk
+50,Car,18424,9.6,32.17,2,Medium Risk
+26,Public Transport,19657,6.0,15.69,0,Low Risk
+23,Bike,4629,5.3,21.85,4,High Risk
+33,Walking,3114,7.0,87.29,2,Medium Risk
+46,Bicycle,2677,5.7,67.04,6,High Risk
+20,Walking,4094,7.2,32.79,2,Medium Risk
+37,Bicycle,3284,6.1,59.98,2,Medium Risk
+53,Bicycle,6052,4.8,57.48,4,High Risk
+36,Walking,18973,5.6,68.99,4,High Risk
+43,Bicycle,19904,6.6,30.99,2,Medium Risk
+20,Bicycle,13047,4.2,87.8,4,High Risk
+36,Public Transport,1694,8.6,37.84,4,High Risk
+37,Car,16588,7.7,72.47,2,Medium Risk
+49,Car,14055,7.6,11.45,0,Low Risk
+24,Bike,17080,7.3,43.54,2,Medium Risk
+69,Bike,7704,7.5,41.65,2,Medium Risk
+58,Public Transport,8368,9.6,58.91,2,Medium Risk
+50,Bike,2971,4.1,16.55,4,High Risk
+57,Walking,15593,4.3,81.11,4,High Risk
+56,EV,9055,5.1,29.6,4,High Risk
+35,EV,12441,5.0,70.93,4,High Risk
+57,EV,15677,5.1,82.29,4,High Risk
+18,Public Transport,2868,8.0,60.57,4,High Risk
+28,Public Transport,19055,6.8,76.68,2,Medium Risk
+45,Bicycle,2728,10.0,69.57,4,High Risk
+42,EV,8632,5.4,42.0,4,High Risk
+67,Walking,13043,5.9,82.8,4,High Risk
+40,Bike,7403,9.9,36.52,2,Medium Risk
+48,Walking,16732,9.0,61.41,2,Medium Risk
+47,Bike,19526,6.8,77.09,2,Medium Risk
+59,EV,10340,7.3,44.11,2,Medium Risk
+52,EV,7184,9.1,37.25,2,Medium Risk
+24,EV,1253,6.9,51.34,4,High Risk
+33,Public Transport,5102,5.2,83.62,4,High Risk
+43,Bike,4542,9.0,93.69,2,Medium Risk
+65,Public Transport,7212,7.2,59.06,2,Medium Risk
+69,Public Transport,5637,4.9,69.53,4,High Risk
+66,Car,12525,7.0,91.29,2,Medium Risk
+19,Walking,12471,6.5,18.87,0,Low Risk
+18,Walking,13500,9.3,30.89,2,Medium Risk
+65,Bicycle,16247,4.8,73.8,4,High Risk
+29,Public Transport,11532,9.3,84.14,2,Medium Risk
+22,Bike,14518,7.1,87.13,2,Medium Risk
+54,Car,7476,6.4,47.36,2,Medium Risk
+49,Car,2004,5.0,18.04,4,High Risk
+26,Walking,11286,8.2,49.4,2,Medium Risk
+58,Public Transport,5717,9.6,30.77,2,Medium Risk
+52,Bicycle,4271,6.3,36.21,2,Medium Risk
+36,Public Transport,13714,5.4,79.5,4,High Risk
+65,EV,1209,7.3,16.8,2,Medium Risk
+33,Public Transport,6539,8.8,84.48,2,Medium Risk
+20,EV,17537,4.0,48.49,4,High Risk
+37,EV,9606,7.8,63.65,2,Medium Risk
+41,Bicycle,12616,7.6,18.07,0,Low Risk
+50,Bike,2284,5.9,40.36,6,High Risk
+41,Walking,4148,6.7,18.07,0,Low Risk
+69,Public Transport,1768,5.5,96.54,6,High Risk
+28,EV,6607,8.7,82.65,2,Medium Risk
+66,Public Transport,19594,7.8,51.37,2,Medium Risk
+25,Bike,8399,7.2,30.12,2,Medium Risk
+53,Walking,1358,6.4,94.01,4,High Risk
+55,Bike,1849,5.7,41.01,6,High Risk
+57,Walking,8498,8.9,24.49,2,Medium Risk
+37,Car,5522,6.7,60.68,2,Medium Risk
+52,Walking,19928,7.0,94.94,2,Medium Risk
+65,Bicycle,13773,7.1,10.34,0,Low Risk
+42,Bike,19215,6.7,31.43,2,Medium Risk
+52,EV,18856,5.5,94.46,4,High Risk
+42,Car,10628,4.7,25.4,4,High Risk
+46,Bicycle,1329,4.6,20.19,6,High Risk
+35,Public Transport,6851,8.5,61.32,2,Medium Risk
+63,Bike,8032,5.3,87.57,4,High Risk
+35,EV,16326,4.3,52.94,4,High Risk
+19,Walking,6266,8.8,99.51,2,Medium Risk
+52,EV,5354,4.9,71.13,4,High Risk
+33,Public Transport,16082,7.8,16.67,0,Low Risk
+58,Car,5722,6.0,99.35,2,Medium Risk
+53,Car,18772,4.8,46.71,4,High Risk
+50,Bike,9911,6.5,35.87,2,Medium Risk
+21,Car,4235,4.1,60.21,4,High Risk
+50,Bike,5576,9.0,37.39,2,Medium Risk
+31,Bike,2100,7.1,17.78,2,Medium Risk
+38,Bike,9864,4.8,10.13,2,Medium Risk
+65,Walking,9708,5.4,50.46,4,High Risk
+37,Bicycle,19916,6.7,85.32,2,Medium Risk
+25,Bike,18165,5.1,61.51,4,High Risk
+24,Bike,15439,5.6,99.93,4,High Risk
+20,Bicycle,12750,7.2,35.82,2,Medium Risk
+34,EV,10781,9.0,35.24,2,Medium Risk
+50,Bike,5995,6.4,24.38,2,Medium Risk
+65,Walking,18885,8.3,24.77,2,Medium Risk
+29,Car,12986,9.3,35.67,2,Medium Risk
+68,Car,13510,5.3,81.36,4,High Risk
+39,Public Transport,10268,8.8,91.52,2,Medium Risk
+39,Public Transport,1502,8.5,97.76,4,High Risk
+63,Car,10531,6.1,30.91,2,Medium Risk
+47,Car,9009,9.9,89.32,2,Medium Risk
+55,Walking,18007,5.6,39.54,4,High Risk
+55,Bicycle,12542,5.5,20.16,4,High Risk
+62,Public Transport,18434,8.6,88.3,2,Medium Risk
+68,Bicycle,18713,6.6,67.25,2,Medium Risk
+25,Walking,14435,6.0,24.83,2,Medium Risk
+44,Car,5114,5.1,48.68,4,High Risk
+44,Bike,14568,8.6,35.85,2,Medium Risk
+51,Bicycle,4367,8.7,76.31,2,Medium Risk
+38,Car,9095,7.4,50.81,2,Medium Risk
+47,Car,6141,9.7,99.04,2,Medium Risk
+50,EV,4951,5.9,14.93,2,Medium Risk
+45,Bicycle,15887,5.3,41.95,4,High Risk
+64,Bike,2573,8.1,53.37,4,High Risk
+50,Bicycle,14359,8.6,55.28,2,Medium Risk
+22,Car,3768,5.3,38.43,4,High Risk
+65,Bike,6302,4.5,75.63,4,High Risk
+36,Walking,14746,8.9,88.73,2,Medium Risk
+21,EV,2211,9.9,94.48,4,High Risk
+52,Car,16445,7.9,82.46,2,Medium Risk
+66,Public Transport,16815,5.7,86.55,4,High Risk
+34,Public Transport,2160,10.0,59.55,4,High Risk
+61,EV,8041,9.4,84.33,2,Medium Risk
+45,Walking,19767,7.1,37.32,2,Medium Risk
+47,Car,11846,9.0,45.86,2,Medium Risk
+46,Bicycle,6876,8.9,38.52,2,Medium Risk
+63,EV,13889,9.6,52.06,2,Medium Risk
+23,Walking,14882,9.0,35.7,2,Medium Risk
+52,Bicycle,15738,7.9,96.55,2,Medium Risk
+58,Public Transport,2095,7.7,38.16,4,High Risk
+54,Public Transport,6901,6.8,18.82,0,Low Risk
+41,Bicycle,9215,7.8,57.41,2,Medium Risk
+46,EV,13911,8.8,15.14,0,Low Risk
+66,Public Transport,15123,9.8,19.95,0,Low Risk
+63,Car,2079,6.8,29.75,4,High Risk
+48,Bike,13510,7.4,51.79,2,Medium Risk
+52,Bicycle,19344,6.7,48.99,2,Medium Risk
+50,Bicycle,2473,8.0,81.97,4,High Risk
+69,Public Transport,5888,7.8,76.55,2,Medium Risk
+38,EV,5979,4.1,48.37,4,High Risk
+49,Car,2212,7.2,40.03,4,High Risk
+40,EV,10001,4.5,38.48,4,High Risk
+50,Walking,14248,4.2,79.66,4,High Risk
+20,Walking,1419,8.7,14.69,2,Medium Risk
+35,Bike,16608,5.6,11.15,2,Medium Risk
+42,Public Transport,4659,6.0,81.6,2,Medium Risk
+59,Public Transport,6283,4.4,52.94,4,High Risk
+48,Public Transport,11715,5.1,21.78,4,High Risk
+20,Bike,17165,8.6,31.2,2,Medium Risk
+57,Walking,2340,7.0,93.93,4,High Risk
+63,EV,15805,9.3,87.36,2,Medium Risk
+41,Bike,11584,6.4,73.88,2,Medium Risk
+67,Bike,15780,5.6,53.4,4,High Risk
+49,EV,6137,6.1,56.83,2,Medium Risk
+64,Public Transport,18745,8.3,97.77,2,Medium Risk
+39,Car,1591,7.3,96.92,4,High Risk
+40,EV,1526,9.4,29.37,4,High Risk
+19,Walking,8855,7.6,83.0,2,Medium Risk
+44,Bicycle,11695,7.0,27.75,2,Medium Risk
+59,Bicycle,2292,8.7,29.22,4,High Risk
+19,Bike,19038,9.7,70.85,2,Medium Risk
+43,Bicycle,17571,6.1,46.45,2,Medium Risk
+34,Car,9625,5.5,93.84,4,High Risk
+57,Public Transport,7431,7.7,18.01,0,Low Risk
+50,Walking,16926,7.0,56.04,2,Medium Risk
+26,Car,12704,9.9,92.67,2,Medium Risk
+60,Walking,1437,6.8,91.37,4,High Risk
+65,Walking,11780,4.4,24.09,4,High Risk
+56,Public Transport,18216,9.9,43.0,2,Medium Risk
+46,Bike,9988,9.1,65.72,2,Medium Risk
+59,Bicycle,9953,5.1,24.35,4,High Risk
+43,Public Transport,6794,9.4,97.12,2,Medium Risk
+52,Car,4574,6.0,92.33,2,Medium Risk
+67,Bike,17301,6.3,25.03,2,Medium Risk
+42,Car,1684,9.4,20.9,4,High Risk
+41,Bike,5233,7.2,17.69,0,Low Risk
+30,Car,17961,4.8,91.85,4,High Risk
+24,Public Transport,13997,6.2,27.43,2,Medium Risk
+53,Bike,9007,8.3,47.47,2,Medium Risk
+62,Bike,17611,5.0,50.4,4,High Risk
+37,Walking,3328,7.5,63.91,2,Medium Risk
+18,Walking,10019,8.2,16.46,0,Low Risk
+25,EV,17814,6.1,30.41,2,Medium Risk
+63,Car,10255,8.2,93.83,2,Medium Risk
+33,Walking,19093,9.3,91.76,2,Medium Risk
+31,EV,6782,6.8,80.32,2,Medium Risk
+29,Walking,2234,6.3,11.75,2,Medium Risk
+68,Car,6205,5.5,39.43,4,High Risk
+40,Bike,2420,7.6,66.52,4,High Risk
+32,Bicycle,18152,9.3,34.77,2,Medium Risk
+45,Car,10596,5.9,91.86,4,High Risk
+51,Public Transport,5355,6.4,67.05,2,Medium Risk
+19,Walking,18922,6.4,16.47,0,Low Risk
+49,Walking,18715,7.4,91.81,2,Medium Risk
+40,Bike,9261,5.4,96.2,4,High Risk
+39,Public Transport,14765,8.9,16.99,0,Low Risk
+68,Bike,6944,5.8,57.91,4,High Risk
+42,Public Transport,8126,8.2,37.3,2,Medium Risk
+39,Bicycle,17864,7.1,45.36,2,Medium Risk
+39,Walking,6263,7.5,26.17,2,Medium Risk
+66,Walking,16300,5.1,62.03,4,High Risk
+69,Bicycle,3793,8.4,96.22,2,Medium Risk
+59,EV,3892,5.1,55.28,4,High Risk
+23,Bike,2198,4.7,17.46,4,High Risk
+32,Bicycle,19756,7.3,65.8,2,Medium Risk
+60,Bike,19276,8.3,40.62,2,Medium Risk
+54,Car,2883,4.3,87.03,6,High Risk
+50,Walking,1797,4.4,49.12,6,High Risk
+25,Bike,9209,8.8,27.36,2,Medium Risk
+61,Public Transport,9235,8.9,27.2,2,Medium Risk
+61,Bike,17538,5.5,79.19,4,High Risk
+22,Car,16257,7.7,33.9,2,Medium Risk
+56,Walking,9050,6.7,79.05,2,Medium Risk
+21,Bicycle,6947,7.8,28.53,2,Medium Risk
+23,Car,10617,9.2,38.95,2,Medium Risk
+62,Walking,2892,4.5,51.89,6,High Risk
+49,Bike,4424,8.7,94.89,2,Medium Risk
+69,EV,10450,7.0,93.86,2,Medium Risk
+47,EV,14418,7.4,28.62,2,Medium Risk
+64,Public Transport,3015,7.9,42.24,2,Medium Risk
+52,Walking,5833,9.5,23.45,2,Medium Risk
+57,EV,10894,4.3,55.9,4,High Risk
+69,Bicycle,16942,4.2,51.45,4,High Risk
+33,Walking,10065,5.1,91.07,4,High Risk
+30,Bicycle,1565,9.9,93.7,4,High Risk
+67,Bicycle,8412,8.3,44.52,2,Medium Risk
+59,EV,19402,7.7,54.26,2,Medium Risk
+47,Walking,11077,4.3,90.66,4,High Risk
+36,Bike,11315,9.3,82.6,2,Medium Risk
+34,Car,13834,8.9,10.33,0,Low Risk
+36,EV,3314,8.0,38.81,2,Medium Risk
+45,EV,5412,6.0,47.96,2,Medium Risk
+43,Bike,4883,4.4,30.67,4,High Risk
+54,Walking,12384,7.5,27.96,2,Medium Risk
+43,Walking,11051,8.3,13.4,0,Low Risk
+40,Bicycle,9216,4.6,67.9,4,High Risk
+26,Bike,12695,7.8,33.63,2,Medium Risk
+29,Bike,8902,5.7,14.71,2,Medium Risk
+18,Walking,14187,8.6,30.79,2,Medium Risk
+18,Bicycle,18573,7.2,82.17,2,Medium Risk
+64,EV,13288,4.8,86.63,4,High Risk
+51,Public Transport,15210,7.2,53.48,2,Medium Risk
+49,Car,7884,6.4,47.45,2,Medium Risk
+65,EV,11559,5.1,98.01,4,High Risk
+42,Walking,19125,9.0,28.05,2,Medium Risk
+57,Car,4688,4.1,29.38,4,High Risk
+62,Public Transport,15114,5.9,36.27,4,High Risk
+18,Public Transport,6369,4.1,25.55,4,High Risk
+33,Bicycle,12938,4.6,44.14,4,High Risk
+56,Car,5023,5.8,91.98,4,High Risk
+22,Bicycle,16982,4.3,65.38,4,High Risk
+39,EV,18100,7.6,47.08,2,Medium Risk
+46,Bike,4967,4.5,94.1,4,High Risk
+20,Bike,8423,8.2,14.36,0,Low Risk
+29,Bike,7450,4.3,28.92,4,High Risk
+43,Car,13213,4.4,60.93,4,High Risk
+33,Bike,4215,5.8,65.4,4,High Risk
+68,EV,1390,9.4,13.56,2,Medium Risk
+54,Bicycle,1232,7.8,46.27,4,High Risk
+39,Car,8634,8.6,68.42,2,Medium Risk
+46,Bicycle,12498,4.8,72.83,4,High Risk
+31,Car,11916,9.0,67.43,2,Medium Risk
+45,Bicycle,1233,4.0,38.85,6,High Risk
+22,Public Transport,2391,5.3,18.42,4,High Risk
+64,Bicycle,12084,7.7,48.44,2,Medium Risk
+66,Bike,10447,6.3,21.59,2,Medium Risk
+47,Public Transport,15184,9.9,95.29,2,Medium Risk
+63,Bicycle,12882,4.2,52.77,4,High Risk
+69,Car,15838,10.0,38.55,2,Medium Risk
+22,Car,18273,7.7,78.97,2,Medium Risk
+29,Car,8902,7.4,54.82,2,Medium Risk
+33,Walking,13879,4.4,37.9,4,High Risk
+43,EV,18129,5.6,83.08,4,High Risk
+43,Car,10911,9.5,88.04,2,Medium Risk
+65,Public Transport,1427,6.1,70.57,4,High Risk
+38,Car,1731,8.0,14.23,2,Medium Risk
+56,Walking,1799,10.0,60.97,4,High Risk
+53,Bike,8025,5.6,78.7,4,High Risk
+50,Public Transport,15481,7.5,22.29,2,Medium Risk
+47,Walking,8624,8.2,30.58,2,Medium Risk
+54,Bike,15961,5.0,89.42,4,High Risk
+40,Public Transport,19922,4.9,11.81,2,Medium Risk
+27,Bicycle,9232,6.7,77.75,2,Medium Risk
+22,EV,4367,6.3,52.64,2,Medium Risk
+53,EV,14262,8.3,50.21,2,Medium Risk
+51,Walking,6229,4.4,10.64,2,Medium Risk
+69,Bike,19799,9.8,83.75,2,Medium Risk
+48,EV,14747,4.1,42.38,4,High Risk
+27,Bike,5261,7.6,58.67,2,Medium Risk
+36,Bike,4466,7.4,70.96,2,Medium Risk
+49,Walking,14785,4.8,73.24,4,High Risk
+18,Walking,4088,4.9,96.04,4,High Risk
+22,Walking,14015,8.8,57.82,2,Medium Risk
+62,EV,2115,9.3,45.97,4,High Risk
+21,Walking,5578,5.7,95.83,4,High Risk
+33,EV,3590,6.6,67.79,2,Medium Risk
+41,Walking,8372,6.1,36.83,2,Medium Risk
+33,Car,4573,4.4,21.38,4,High Risk
+19,Bike,3978,8.0,85.83,2,Medium Risk
+66,Walking,11639,9.0,42.6,2,Medium Risk
+45,Public Transport,10422,5.8,69.44,4,High Risk
+49,Bike,11858,9.9,52.37,2,Medium Risk
+44,Bike,5975,4.5,27.9,4,High Risk
+37,Walking,5925,8.0,64.15,2,Medium Risk
+41,Bicycle,11786,6.7,15.46,0,Low Risk
+29,Walking,15716,6.7,47.2,2,Medium Risk
+67,Bike,2995,6.7,59.2,4,High Risk
+52,Public Transport,14844,5.6,49.24,4,High Risk
+50,Bike,4891,8.3,77.38,2,Medium Risk
+50,Public Transport,16522,8.3,84.51,2,Medium Risk
+68,EV,8145,5.7,79.41,4,High Risk
+60,Car,9498,9.0,13.49,0,Low Risk
+54,Bike,10554,5.9,27.47,4,High Risk
+29,Walking,3102,8.4,58.29,2,Medium Risk
+20,EV,4030,4.7,94.13,4,High Risk
+18,Car,9524,5.0,85.15,4,High Risk
+50,Walking,9107,5.9,85.83,4,High Risk
+57,Bicycle,17626,7.6,37.29,2,Medium Risk
+27,Walking,19268,7.9,48.65,2,Medium Risk
+60,Public Transport,15935,6.4,52.36,2,Medium Risk
+61,Public Transport,10624,4.5,24.16,4,High Risk
+46,Bicycle,16823,6.2,12.8,0,Low Risk
+30,EV,8863,8.1,95.22,2,Medium Risk
+29,Car,4109,8.0,31.66,2,Medium Risk
+48,Walking,19570,5.0,31.6,4,High Risk
+63,Public Transport,13482,4.0,17.5,2,Medium Risk
+19,EV,2550,8.5,93.57,4,High Risk
+68,Bicycle,1646,4.6,62.18,6,High Risk
+67,Bike,14407,4.5,70.03,4,High Risk
+52,Public Transport,13700,4.0,92.04,4,High Risk
+40,Bicycle,1537,6.6,41.11,4,High Risk
+34,Walking,15166,7.0,65.94,2,Medium Risk
+43,Car,7572,7.8,13.49,0,Low Risk
+25,Public Transport,1234,5.8,26.81,6,High Risk
+46,Public Transport,15067,8.3,84.81,2,Medium Risk
+43,Walking,10696,5.0,79.01,4,High Risk
+27,Bike,15150,9.0,41.56,2,Medium Risk
+43,EV,18758,7.4,43.91,2,Medium Risk
+51,Car,2909,7.5,58.02,4,High Risk
+68,Public Transport,13150,5.3,10.02,2,Medium Risk
+58,Car,1080,4.4,31.71,6,High Risk
+24,Public Transport,3083,6.8,28.74,2,Medium Risk
+21,Car,14378,7.7,32.54,2,Medium Risk
+67,Bicycle,16217,4.6,82.53,4,High Risk
+62,Public Transport,19074,9.7,35.17,2,Medium Risk
+28,Car,18140,9.9,27.24,2,Medium Risk
+46,EV,3670,7.3,55.38,2,Medium Risk
+53,Bicycle,4751,9.7,87.91,2,Medium Risk
+42,Bicycle,12744,5.1,31.72,4,High Risk
+38,EV,6261,4.2,17.07,2,Medium Risk
+53,Car,15691,4.2,42.08,4,High Risk
+27,Walking,7852,7.5,77.29,2,Medium Risk
+54,EV,2494,4.4,59.56,6,High Risk
+26,Car,18285,9.8,83.51,2,Medium Risk
+41,EV,1672,4.9,96.36,6,High Risk
+52,EV,9630,5.8,81.34,4,High Risk
+66,Public Transport,11268,8.9,64.34,2,Medium Risk
+52,Car,1444,5.3,54.4,6,High Risk
+65,Walking,10157,5.5,13.61,2,Medium Risk
+53,Public Transport,12982,7.9,98.59,2,Medium Risk
+35,EV,9655,5.7,44.51,4,High Risk
+66,Bike,19582,5.3,23.7,4,High Risk
+56,EV,3287,5.5,70.0,4,High Risk
+49,EV,12957,6.9,35.59,2,Medium Risk
+41,Car,5008,9.8,62.72,2,Medium Risk
+40,Car,12696,9.0,62.81,2,Medium Risk
+49,Public Transport,10104,5.7,50.12,4,High Risk
+54,Walking,1496,6.2,85.25,4,High Risk
+29,Public Transport,2463,6.8,33.85,4,High Risk
+66,Bicycle,13459,9.9,50.38,2,Medium Risk
+30,EV,17877,5.0,58.39,4,High Risk
+40,Bike,18810,6.1,69.73,2,Medium Risk
+42,EV,10884,8.4,80.56,2,Medium Risk
+52,EV,19177,9.8,45.53,2,Medium Risk
+58,Public Transport,3723,4.9,68.14,4,High Risk
+47,Bike,18042,5.4,23.55,4,High Risk
+34,Bike,5761,5.4,93.94,4,High Risk
+66,Bike,8630,4.1,44.48,4,High Risk
+37,Public Transport,17375,7.6,75.66,2,Medium Risk
+65,EV,9741,8.0,11.83,0,Low Risk
+42,Public Transport,5350,7.6,28.47,2,Medium Risk
+39,Car,1207,4.4,53.84,6,High Risk
+30,Car,5190,4.4,89.04,4,High Risk
+36,Public Transport,2883,5.3,57.45,6,High Risk
+66,Bike,3886,5.7,93.69,4,High Risk
+53,EV,17861,8.7,53.54,2,Medium Risk
+29,Public Transport,9953,5.0,54.14,4,High Risk
+58,Public Transport,9381,4.3,20.78,4,High Risk
+36,Public Transport,14795,6.4,82.24,2,Medium Risk
+29,Bicycle,18139,6.5,32.23,2,Medium Risk
+26,Car,10638,6.7,90.97,2,Medium Risk
+24,Bike,5931,9.0,91.97,2,Medium Risk
+45,Walking,10855,4.6,94.9,4,High Risk
+31,Bike,6724,8.2,56.82,2,Medium Risk
+48,Walking,13420,6.0,70.94,2,Medium Risk
+69,Bicycle,5060,5.9,80.07,4,High Risk
+36,Public Transport,5765,9.6,21.79,2,Medium Risk
+64,Bicycle,7553,5.5,64.09,4,High Risk
+33,Bicycle,8378,7.9,13.09,0,Low Risk
+22,EV,19073,5.7,54.78,4,High Risk
+52,Car,18700,7.0,23.94,2,Medium Risk
+29,Walking,8130,8.7,26.46,2,Medium Risk
+42,Public Transport,4186,9.3,42.85,2,Medium Risk
+69,Walking,6789,9.0,48.92,2,Medium Risk
+38,Bike,17122,7.5,66.09,2,Medium Risk
+53,Walking,18529,5.5,16.7,2,Medium Risk
+40,Bike,8942,8.0,55.33,2,Medium Risk
+33,Car,8548,8.3,26.44,2,Medium Risk
+56,Bike,17944,4.1,61.66,4,High Risk
+62,Walking,19296,6.6,67.37,2,Medium Risk
+59,Walking,19248,9.1,60.1,2,Medium Risk
+56,Bike,1296,6.9,76.45,4,High Risk
+31,Bicycle,3409,5.9,40.2,4,High Risk
+48,Car,2461,9.2,78.86,4,High Risk
+22,EV,3268,4.9,48.95,4,High Risk
+52,Public Transport,18378,5.2,53.58,4,High Risk
+40,Walking,7554,8.1,68.33,2,Medium Risk
+46,Public Transport,17391,6.1,11.65,0,Low Risk
+60,EV,19899,8.3,68.86,2,Medium Risk
+28,Public Transport,18801,4.9,65.67,4,High Risk
+35,EV,19700,5.5,37.89,4,High Risk
+64,Bike,8358,4.9,17.72,2,Medium Risk
+29,Bicycle,18671,9.7,18.18,0,Low Risk
+26,Walking,18502,6.4,93.09,2,Medium Risk
+27,EV,8637,6.0,72.04,2,Medium Risk
+61,Public Transport,1660,4.1,21.44,6,High Risk
+34,Walking,9907,4.9,42.11,4,High Risk
+55,Bicycle,7922,6.5,63.32,2,Medium Risk
+24,Bike,12953,4.4,85.2,4,High Risk
+63,Walking,19913,7.1,13.93,0,Low Risk
+30,EV,4970,6.7,31.3,2,Medium Risk
+57,Bicycle,4407,8.6,90.08,2,Medium Risk
+59,Public Transport,10046,8.0,10.82,0,Low Risk
+26,Bicycle,15547,6.7,28.13,2,Medium Risk
+67,Bicycle,5760,5.3,96.31,4,High Risk
+44,Car,19281,8.4,65.21,2,Medium Risk
+19,Bicycle,14465,8.2,33.55,2,Medium Risk
+22,Bicycle,5087,4.9,16.03,2,Medium Risk
+46,Walking,8607,9.5,12.54,0,Low Risk
+54,Public Transport,5019,4.4,32.03,4,High Risk
+55,Walking,1815,4.3,89.33,6,High Risk
+36,Walking,13563,5.1,47.43,4,High Risk
+25,EV,14292,9.5,74.83,2,Medium Risk
+65,Walking,17158,7.1,92.65,2,Medium Risk
+62,Car,1922,8.7,46.72,4,High Risk
+18,Car,13929,5.4,27.21,4,High Risk
+39,EV,15925,6.9,56.54,2,Medium Risk
+69,Bike,18648,6.1,91.73,2,Medium Risk
+34,Public Transport,11979,9.0,82.39,2,Medium Risk
+24,Public Transport,3722,4.1,15.92,2,Medium Risk
+42,Walking,6355,5.5,72.33,4,High Risk
+62,Walking,14301,4.9,61.47,4,High Risk
+21,Bike,3550,9.2,91.67,2,Medium Risk
+53,Walking,12141,6.8,21.02,2,Medium Risk
+23,Public Transport,19057,6.4,58.06,2,Medium Risk
+48,Bicycle,12284,6.7,89.15,2,Medium Risk
+36,Car,19050,9.8,46.9,2,Medium Risk
+61,Bicycle,2384,9.1,53.38,4,High Risk
+56,Bicycle,9252,8.2,16.34,0,Low Risk
+44,Public Transport,8238,5.7,35.03,4,High Risk
+27,Bicycle,7026,5.0,39.21,4,High Risk
+43,Bike,11482,9.5,95.06,2,Medium Risk
+36,EV,14801,6.5,35.44,2,Medium Risk
+56,Walking,17120,5.7,51.48,4,High Risk
+20,EV,16580,6.8,70.42,2,Medium Risk
+62,Car,9664,9.5,24.6,2,Medium Risk
+30,Walking,18342,6.3,53.78,2,Medium Risk
+67,Bicycle,1493,7.4,76.47,4,High Risk
+45,Car,17465,8.8,88.02,2,Medium Risk
+37,Walking,7999,6.6,66.36,2,Medium Risk
+45,Bike,14833,5.4,70.21,4,High Risk
+25,Bike,3970,10.0,21.37,2,Medium Risk
+58,Bike,1011,9.7,95.12,4,High Risk
+56,Bike,16551,9.1,21.93,2,Medium Risk
+18,Bicycle,18145,8.1,79.72,2,Medium Risk
+20,EV,4185,5.8,33.83,4,High Risk
+30,Walking,17409,9.5,94.02,2,Medium Risk
+45,Bicycle,2806,5.7,74.8,6,High Risk
+66,Bike,6664,8.8,77.84,2,Medium Risk
+42,EV,15126,9.5,29.72,2,Medium Risk
+50,Car,13894,7.6,49.87,2,Medium Risk
+55,Car,6154,8.8,65.6,2,Medium Risk
+23,Car,14767,8.8,79.3,2,Medium Risk
+61,Bike,16226,5.2,19.36,2,Medium Risk
+62,Car,2525,8.0,96.61,4,High Risk
+49,Public Transport,1760,4.6,90.12,6,High Risk
+62,Walking,17978,7.0,34.33,2,Medium Risk
+64,Walking,14880,5.0,84.05,4,High Risk
+38,Bike,2055,6.5,56.65,4,High Risk
+33,Public Transport,11046,9.0,51.56,2,Medium Risk
+38,Bicycle,4083,9.9,38.3,2,Medium Risk
+28,Bicycle,16678,5.9,62.29,4,High Risk
+54,Car,13108,7.2,75.69,2,Medium Risk
+53,EV,10650,7.1,46.98,2,Medium Risk
+52,Bicycle,6957,9.7,66.63,2,Medium Risk
+36,EV,6255,6.9,72.94,2,Medium Risk
+37,Walking,10411,8.2,74.0,2,Medium Risk
+35,EV,17344,9.5,14.68,0,Low Risk
+64,Walking,10691,6.2,87.38,2,Medium Risk
+58,Public Transport,19214,9.4,51.24,2,Medium Risk
+66,Public Transport,4395,9.5,33.62,2,Medium Risk
+31,Bike,2203,9.6,31.76,4,High Risk
+32,Bike,4044,5.6,53.47,4,High Risk
+48,Car,8272,6.4,89.81,2,Medium Risk
+18,Bicycle,4514,9.2,44.05,2,Medium Risk
+20,Car,10990,6.2,77.48,2,Medium Risk
+33,Walking,7192,7.6,18.71,0,Low Risk
+40,Car,11767,4.7,52.85,4,High Risk
+28,EV,17528,4.3,99.25,4,High Risk
+29,Walking,8507,6.5,79.34,2,Medium Risk
+27,Bike,5857,7.5,28.95,2,Medium Risk
+49,Public Transport,13118,6.4,55.13,2,Medium Risk
+33,Bike,18761,7.5,31.03,2,Medium Risk
+25,Bicycle,4146,7.1,46.86,2,Medium Risk
+55,Walking,18177,8.1,80.21,2,Medium Risk
+29,Walking,6756,7.9,79.41,2,Medium Risk
+41,EV,5414,6.5,30.53,2,Medium Risk
+45,Bicycle,18494,6.5,93.0,2,Medium Risk
+25,Public Transport,4937,4.8,63.33,4,High Risk
+45,Walking,4963,7.1,44.19,2,Medium Risk
+53,Walking,6897,7.5,55.17,2,Medium Risk
+43,EV,9974,6.9,64.46,2,Medium Risk
+25,Car,15377,6.0,60.39,2,Medium Risk
+67,Public Transport,18500,8.3,53.78,2,Medium Risk
+45,Bike,17056,4.4,55.44,4,High Risk
+45,Bicycle,2750,9.5,25.88,4,High Risk
+54,Walking,5027,4.1,83.15,4,High Risk
+58,Walking,12528,9.8,58.76,2,Medium Risk
+53,Bike,6745,6.8,21.8,2,Medium Risk
+44,Public Transport,10679,6.5,78.95,2,Medium Risk
+34,Car,6938,5.5,93.92,4,High Risk
+26,Walking,13150,4.1,95.26,4,High Risk
+50,Public Transport,14406,5.6,43.21,4,High Risk
+37,Bike,18743,4.7,22.2,4,High Risk
+30,EV,5853,8.0,56.66,2,Medium Risk
+45,Car,19325,5.9,20.13,4,High Risk
+65,Bicycle,4148,8.6,94.06,2,Medium Risk
+46,Walking,17243,5.2,26.52,4,High Risk
+30,Public Transport,8933,9.4,32.75,2,Medium Risk
+63,EV,10436,7.1,46.6,2,Medium Risk
+52,Bicycle,18669,4.7,44.48,4,High Risk
+23,Public Transport,7474,6.4,81.52,2,Medium Risk
+35,Public Transport,15679,5.2,51.07,4,High Risk
+68,Bicycle,12228,5.2,25.37,4,High Risk
+22,EV,1770,7.0,34.05,4,High Risk
+64,Bike,2843,8.0,55.82,4,High Risk
+42,EV,1073,9.5,23.27,4,High Risk
+19,Car,19044,7.0,65.05,2,Medium Risk
+27,Walking,17059,9.8,60.92,2,Medium Risk
+47,Bicycle,9000,9.6,74.32,2,Medium Risk
+67,Bike,14273,9.2,94.39,2,Medium Risk
+62,Bicycle,17121,7.0,92.1,2,Medium Risk
+22,Bicycle,1331,4.8,95.15,6,High Risk
+50,EV,18805,5.3,32.02,4,High Risk
+18,Walking,8512,7.9,21.84,2,Medium Risk
+35,Car,5931,6.5,37.2,2,Medium Risk
+49,Public Transport,13742,4.9,90.56,4,High Risk
+64,Public Transport,14426,6.9,97.48,2,Medium Risk
+66,Bicycle,6113,4.1,87.34,4,High Risk
+28,Walking,9419,8.4,19.9,0,Low Risk
+38,Bike,3881,4.4,95.27,4,High Risk
+43,EV,14145,7.8,48.1,2,Medium Risk
+42,Walking,14556,8.8,10.84,0,Low Risk
+39,Walking,3575,4.8,49.82,4,High Risk
+44,EV,13714,7.1,14.15,0,Low Risk
+66,Bicycle,7185,8.7,58.95,2,Medium Risk
+30,Walking,9656,5.6,40.47,4,High Risk
+50,Public Transport,6741,5.0,52.61,4,High Risk
+51,EV,17661,6.0,65.19,2,Medium Risk
+58,Bike,1065,7.3,88.19,4,High Risk
+52,Car,5262,7.5,69.57,2,Medium Risk
+18,Bicycle,6704,4.8,49.06,4,High Risk
+38,EV,16355,6.7,83.75,2,Medium Risk
+65,Car,9594,5.6,91.5,4,High Risk
+23,Car,13175,9.1,20.78,2,Medium Risk
+45,Bike,13696,5.9,57.87,4,High Risk
+34,Walking,7255,9.0,35.61,2,Medium Risk
+22,Bike,8441,6.6,14.24,0,Low Risk
+48,Walking,15986,8.4,70.17,2,Medium Risk
+22,Walking,14350,7.1,87.65,2,Medium Risk
+55,EV,15440,7.7,24.66,2,Medium Risk
+20,EV,8960,6.4,83.12,2,Medium Risk
+40,Bicycle,18821,8.6,86.81,2,Medium Risk
+54,Walking,14665,6.6,92.29,2,Medium Risk
+54,Car,7629,6.7,33.88,2,Medium Risk
+27,Public Transport,14828,7.1,91.36,2,Medium Risk
+27,Bicycle,5541,9.0,38.86,2,Medium Risk
+36,EV,8876,8.0,59.71,2,Medium Risk
+34,Bike,14311,6.1,14.55,0,Low Risk
+38,Bicycle,15588,8.0,13.95,0,Low Risk
+31,Bicycle,17648,7.9,74.83,2,Medium Risk
+26,Bicycle,13380,9.6,50.0,2,Medium Risk
+63,Bicycle,10877,9.0,33.07,2,Medium Risk
+18,Public Transport,18818,7.9,27.14,2,Medium Risk
+68,Bike,6097,6.0,70.3,2,Medium Risk
+62,Bike,19044,8.7,10.04,0,Low Risk
+30,Bike,19738,7.5,82.53,2,Medium Risk
+21,Walking,7461,9.9,17.13,0,Low Risk
+18,Car,8044,5.5,27.23,4,High Risk
+66,Bike,6497,4.5,44.76,4,High Risk
+57,Bicycle,14751,4.4,53.64,4,High Risk
+49,Bicycle,10304,7.8,41.95,2,Medium Risk
+51,Bike,11426,9.6,38.86,2,Medium Risk
+45,Bike,12058,4.0,96.75,4,High Risk
+48,Bicycle,12260,8.4,67.74,2,Medium Risk
+25,Walking,19563,7.9,12.11,0,Low Risk
+56,EV,1634,8.4,48.72,4,High Risk
+43,EV,11057,6.1,88.75,2,Medium Risk
+51,Bike,14345,8.9,37.13,2,Medium Risk
+20,Public Transport,11147,4.3,18.51,2,Medium Risk
+67,Bike,19602,8.5,78.25,2,Medium Risk
+29,Bike,2389,5.6,64.54,6,High Risk
+18,EV,14071,6.9,61.33,2,Medium Risk
+61,Bicycle,12322,8.9,14.82,0,Low Risk
+22,Bike,5276,5.6,22.64,4,High Risk
+47,Bicycle,13306,5.1,66.03,4,High Risk
+47,Bicycle,2249,8.1,28.7,4,High Risk
+34,Public Transport,18629,7.2,55.37,2,Medium Risk
+65,Bicycle,9245,7.1,59.04,2,Medium Risk
+64,EV,12102,5.5,35.52,4,High Risk
+40,Walking,17226,4.2,95.36,4,High Risk
+32,Walking,11588,6.5,85.82,2,Medium Risk
+54,Car,1442,4.6,75.01,6,High Risk
+38,Bike,7976,9.4,17.02,0,Low Risk
+31,EV,5675,4.2,19.55,2,Medium Risk
+19,Bicycle,12803,6.6,54.35,2,Medium Risk
+28,Walking,8953,4.3,24.46,4,High Risk
+68,EV,5377,4.6,98.04,4,High Risk
+56,Walking,11599,8.0,24.27,2,Medium Risk
+55,Bicycle,8058,7.9,53.87,2,Medium Risk
+51,Walking,18206,4.2,42.77,4,High Risk
+55,Bike,12894,4.0,67.54,4,High Risk
+67,Bike,3939,4.5,21.61,4,High Risk
+51,Car,2031,8.6,48.73,4,High Risk
+35,Car,11208,7.5,34.72,2,Medium Risk
+47,Walking,1562,4.2,89.9,6,High Risk
+32,EV,11730,6.9,13.65,0,Low Risk
+44,Bike,17724,8.3,92.24,2,Medium Risk
+68,EV,17152,9.2,84.97,2,Medium Risk
+51,EV,14998,9.6,36.78,2,Medium Risk
+69,Walking,19680,6.0,81.04,2,Medium Risk
+55,EV,17618,4.8,12.81,2,Medium Risk
+50,Bike,10308,5.4,97.02,4,High Risk
+41,Bicycle,10609,8.7,57.39,2,Medium Risk
+32,Car,18675,9.8,37.3,2,Medium Risk
+47,Bicycle,9720,6.8,42.63,2,Medium Risk
+59,EV,11172,5.8,15.98,2,Medium Risk
+68,Bicycle,15457,6.6,99.04,2,Medium Risk
+34,Bike,3939,5.8,13.54,2,Medium Risk
+22,Bike,15345,5.5,68.94,4,High Risk
+46,EV,17158,7.6,49.85,2,Medium Risk
+21,Walking,6435,4.1,95.4,4,High Risk
+27,Bicycle,6392,5.6,32.14,4,High Risk
+34,Walking,8972,8.0,57.89,2,Medium Risk
+27,Walking,18617,4.2,53.41,4,High Risk
+34,Public Transport,15799,4.5,73.26,4,High Risk
+37,EV,16052,5.8,16.12,2,Medium Risk
+41,Car,7044,9.3,27.44,2,Medium Risk
+22,Bike,15415,8.6,29.31,2,Medium Risk
+51,Bike,18274,4.1,76.43,4,High Risk
+23,EV,14858,7.0,27.02,2,Medium Risk
+19,Car,18572,5.6,61.61,4,High Risk
+30,Bike,6644,7.9,29.37,2,Medium Risk
+60,EV,18124,8.3,87.55,2,Medium Risk
+60,Bike,18753,9.2,94.8,2,Medium Risk
+65,Walking,19384,6.9,56.66,2,Medium Risk
+28,Bicycle,18855,10.0,41.71,2,Medium Risk
+68,Bicycle,18920,9.9,31.07,2,Medium Risk
+64,Bike,17702,9.3,14.48,0,Low Risk
+40,Public Transport,6153,7.4,34.17,2,Medium Risk
+33,Car,2894,6.4,68.88,4,High Risk
+48,Car,8991,6.2,58.03,2,Medium Risk
+28,Car,16439,4.1,94.96,4,High Risk
+33,Walking,10467,5.5,45.66,4,High Risk
+25,Car,6935,8.3,72.45,2,Medium Risk
+21,Bicycle,18107,7.6,54.04,2,Medium Risk
+57,Walking,3329,9.5,56.13,2,Medium Risk
+21,EV,10327,4.3,34.1,4,High Risk
+42,Car,3770,4.9,50.95,4,High Risk
+20,Car,5846,8.7,52.37,2,Medium Risk
+49,EV,17651,6.2,73.6,2,Medium Risk
+20,Car,17276,4.7,94.66,4,High Risk
+44,EV,15633,10.0,39.64,2,Medium Risk
+46,Walking,14628,8.7,13.8,0,Low Risk
+49,Bicycle,1569,6.5,54.67,4,High Risk
+67,EV,2973,8.9,59.0,4,High Risk
+68,Public Transport,3822,8.1,25.16,2,Medium Risk
+36,EV,1270,8.7,78.44,4,High Risk
+38,Car,17320,8.9,98.64,2,Medium Risk
+22,Walking,8641,4.5,95.12,4,High Risk
+35,Bike,9930,7.7,27.74,2,Medium Risk
+45,Walking,7680,4.0,88.78,4,High Risk
+59,Bike,2257,4.3,73.4,6,High Risk
+39,EV,9250,9.4,50.85,2,Medium Risk
+38,Bicycle,6370,7.2,58.65,2,Medium Risk
+23,Public Transport,5858,8.4,86.46,2,Medium Risk
+18,Walking,9581,9.0,53.21,2,Medium Risk
+22,Car,14491,9.7,43.59,2,Medium Risk
+58,Bike,13436,9.2,54.39,2,Medium Risk
+29,Car,13870,6.9,62.12,2,Medium Risk
+43,Bicycle,17504,6.0,27.02,2,Medium Risk
+63,Bike,7908,4.9,91.08,4,High Risk
+51,Walking,11844,6.4,70.68,2,Medium Risk
+66,EV,19687,6.2,66.99,2,Medium Risk
+31,Car,5861,7.4,18.95,0,Low Risk
+43,Bicycle,3911,8.0,64.38,2,Medium Risk
+62,Walking,9991,9.9,20.89,2,Medium Risk
+44,Walking,12572,8.4,17.08,0,Low Risk
+26,Walking,11298,7.9,57.46,2,Medium Risk
+43,Walking,8236,6.0,46.25,2,Medium Risk
+64,Bike,6565,4.2,62.99,4,High Risk
+39,Walking,18493,5.7,18.03,2,Medium Risk
+64,Car,7929,8.6,48.79,2,Medium Risk
+47,Bicycle,18634,5.2,25.73,4,High Risk
+60,Bike,19033,8.3,98.84,2,Medium Risk
+65,Walking,8351,7.5,60.5,2,Medium Risk
+34,Public Transport,15901,5.0,71.87,4,High Risk
+43,Public Transport,11638,5.6,39.29,4,High Risk
+53,Bicycle,6828,7.0,18.53,0,Low Risk
+18,EV,12556,6.5,97.83,2,Medium Risk
+25,EV,19099,8.7,35.76,2,Medium Risk
+66,Bike,9150,8.4,48.14,2,Medium Risk
+52,Bike,11107,7.4,68.49,2,Medium Risk
+69,Bike,2757,8.9,12.22,2,Medium Risk
+32,EV,19193,7.4,82.92,2,Medium Risk
+64,Public Transport,12199,9.8,58.29,2,Medium Risk
+39,EV,17295,5.3,35.04,4,High Risk
+31,Car,13807,8.3,15.54,0,Low Risk
+43,Walking,18535,6.2,24.62,2,Medium Risk
+45,Bike,6492,5.7,90.55,4,High Risk
+40,Public Transport,7302,5.1,71.74,4,High Risk
+31,Bicycle,16929,7.3,32.49,2,Medium Risk
+41,Bicycle,5747,5.3,15.9,2,Medium Risk
+19,Walking,15238,5.2,72.16,4,High Risk
+62,Public Transport,9402,9.9,61.52,2,Medium Risk
+43,EV,11686,8.8,46.41,2,Medium Risk
+31,EV,5681,8.5,42.73,2,Medium Risk
+68,Car,19891,8.8,29.51,2,Medium Risk
+24,Car,4428,9.8,70.27,2,Medium Risk
+20,EV,8494,7.4,97.36,2,Medium Risk
+64,Bicycle,4955,5.3,25.81,4,High Risk
+40,Bike,15026,9.2,63.74,2,Medium Risk
+63,Bicycle,10244,8.5,48.18,2,Medium Risk
+60,Car,1713,6.5,50.2,4,High Risk
+64,Walking,12080,6.8,32.87,2,Medium Risk
+62,EV,9521,6.5,84.26,2,Medium Risk
+35,Car,2746,9.6,53.67,4,High Risk
+55,Car,18591,6.1,58.91,2,Medium Risk
