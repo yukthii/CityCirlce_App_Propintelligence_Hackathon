@@ -124,10 +124,13 @@ Rule-based AI and heuristic computer vision techniques were used to ensure fast,
 
 ### Developed by Team Yukthi
 Team Members:
-Jyothi RK
-Kavya M
-Kavyashree K
-Margaret Sheela C
+Jyothi RK,
+
+Kavya M,
+
+Kavyashree K,
+
+Margaret Sheela C.
 
 ### Theme: Smart Cities & Infrastructure
 
